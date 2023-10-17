@@ -1,2 +1,2 @@
-# DT
-website for diksha tutorials coaching centre 
+# Diksha Tutorials
+> website for diksha tutorials coaching centre 
