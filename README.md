@@ -1,6 +1,6 @@
 # Diksha Tutorials
 
-> website for diksha tutorials coaching centre 
+> A website for Diksha Tutorials built with HTML, CSS, JavaScript.
 
 ## Contributing
 
