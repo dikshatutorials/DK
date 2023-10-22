@@ -1,2 +1,4 @@
 # Diksha Tutorials
-> website for diksha tutorials coaching centre 
+> An advertisment site for diksha tutorials coaching center
+
+## Visit site at : https://dikshatutorials.github.io Public
