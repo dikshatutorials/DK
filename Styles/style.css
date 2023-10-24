@@ -63,9 +63,8 @@ body {
 
 /* body style */
 .landing {
-    background: #0057ff;
     width: 100%;
-    height: 100vh;
+    height: 130vh;
     color: white;
 }
 .landing h1 {
@@ -110,10 +109,8 @@ body {
 
 /* background class*/
 .background {
-    background-image: url("./bg.jpg");
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5) url("./bg.jpg");
     background-blend-mode: darken;
-    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -284,16 +281,37 @@ body {
         display: none;
     }
     .landing {
-        height: 40em;
+        height: 100vh;
     }
     .landing h3 {
         display: none;
     }
     .background {
-        background: rgba(0, 0, 0, 0.5) url("./images/bg.jpg");
+        background: rgba(0, 0, 0, 0.5) url("./bg.jpg");
         background-blend-mode: darken;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+    .content1{
+        width: 40%;
+    }
+    .fee {
+        width: 30%;
+        padding-bottom: 20px;
+    }
+    .intro {
+        width: 100%;
+        height: 407px;
+    }
+    .intro img{
+        width: 326px;
+        height: 407px;
+    }
+    .facilities{
+        height: 300px;
+    }
+    .facilities li {
+        margin-top: 10px;
     }
 }
 .reveal{
