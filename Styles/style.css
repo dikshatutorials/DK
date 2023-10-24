@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Fredoka&family=Montserrat&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sometype+Mono&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -6,10 +8,11 @@
     border: none;
     -webkit-tap-highlight-color: transparent;
     scroll-behavior: smooth;
+    list-style-position: inside;
 }
 
 body {
-    font-family: "Comfortaa", cursive;
+    font-family: 'Montserrat', sans-serif;
     background: #4a2632;
 }
 
@@ -226,6 +229,7 @@ body {
     width: 100%;
     font-size: 13px;
     margin: auto;
+
 }
 .fee span {
     display: inline-block;
@@ -312,6 +316,15 @@ body {
     }
     .facilities li {
         margin-top: 10px;
+    }
+    .intro li {
+        list-style: decimal;
+        padding: 19px 0px 5px 20px;
+        font-size: 13px;
+    }
+    .intro h3 {
+        padding: 20px 20px 0px;
+        font-size: 30px;
     }
 }
 .reveal{
