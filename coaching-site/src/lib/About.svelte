@@ -51,7 +51,7 @@
     background: #952c4a;
   }
   .abt-imag {
-    width: 40%;
+    width: 50%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -83,5 +83,22 @@
     font-size: 1rem;
     font-weight: 300;
     margin-left: 5%;
+  }
+  @media screen and (max-width:780px){
+    .about{
+      flex-direction: column;
+    }
+    .about .abt-imag{
+      width:100%;
+    }
+    .abt-imag img{
+      width: 100%;
+    }
+    .abt-text h1{
+      font-size: 1.5rem;
+    }
+    .abt-text h4{
+      font-size: .75rem;
+    }
   }
 </style>
