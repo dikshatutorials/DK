@@ -24,7 +24,7 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background: rgba(0,0,0,0.5) url("../assets/images/bg.jpeg") no-repeat center center/cover;
+        background: rgba(0,0,0,0.5) url("../assets/images/bg.jpeg") no-repeat center center/cover fixed;
         background-blend-mode: darken;
     }
     .home-text-part {
