@@ -1,6 +1,6 @@
-## Advertiesment Website For Diksha Tutorial Coaching Classes
+### Diksha Tutorial Coaching Classes Website
 
-### [LIVE SITE](https://dikshatutorials-github-io.vercel.app/)
+#### [Visit the Live Site](https://dikshatutorials-github-io.vercel.app/)
 
-### Designer | Developer | Maintainer
-**[Vivek Thakur](https://github.com/vivek09thakur)**
+#### Crafted by Vivek Thakur
+**[Vivek Thakur](https://github.com/vivek09thakur)** - Designer, Developer, Maintainer
